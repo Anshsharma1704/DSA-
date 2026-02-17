@@ -7,51 +7,51 @@ This repository contains my solutions to problems from the Striver A2Z DSA Sheet
 
 I am consistently solving DSA problems to:
 
-🧠 Improve problem-solving skills
+- 🧠 Improve problem-solving skills
 
-💻 Strengthen coding fundamentals
+- 💻 Strengthen coding fundamentals
 
-🎯 Prepare for coding interviews & placements
+- 🎯 Prepare for coding interviews & placements
 
-📈 Build discipline and consistency
+- 📈 Build discipline and consistency
 
 All solutions are written in a clean and readable format with optimized approaches wherever possible.
 
 ## 📚 Topics Covered
 
-✅ Arrays
+- ✅ Arrays
 
-✅ Strings
+- ✅ Strings
 
-✅ Recursion & Backtracking
+- ✅ Recursion & Backtracking
 
-✅ Sorting & Searching
+- ✅ Sorting & Searching
 
-✅ Linked List
+- ✅ Linked List
 
-✅ Stack & Queue
+- ✅ Stack & Queue
 
-✅ Binary Search
+- ✅ Binary Search
 
-✅ Trees & Binary Trees
+- ✅ Trees & Binary Trees
 
-✅ Binary Search Trees
+- ✅ Binary Search Trees
 
-✅ Graphs
+- ✅ Graphs
 
-✅ Dynamic Programming
+- ✅ Dynamic Programming
 
-✅ Greedy Algorithms
+- ✅ Greedy Algorithms
 
-✅ Bit Manipulation
+- ✅ Bit Manipulation
 
 ## 🛠 Tech Stack
 
-💻 Language: C++ 
+- 💻 Language: C++ 
 
-🌐 Platform: LeetCode
+- 🌐 Platform: LeetCode
 
-📋 Sheet: Striver A2Z DSA Sheet
+- 📋 Sheet: Striver A2Z DSA Sheet
 
 ## 📈 Progress Tracker
 
