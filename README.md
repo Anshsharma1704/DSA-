@@ -19,31 +19,31 @@ All solutions are written in a clean and readable format with optimized approach
 
 ## 📚 Topics Covered
 
-- ✅ Arrays
+- Arrays
 
-- ✅ Strings
+- Strings
 
-- ✅ Recursion & Backtracking
+- Recursion & Backtracking
 
-- ✅ Sorting & Searching
+- Sorting & Searching
 
-- ✅ Linked List
+- Linked List
 
-- ✅ Stack & Queue
+- Stack & Queue
 
-- ✅ Binary Search
+- Binary Search
 
-- ✅ Trees & Binary Trees
+- Trees & Binary Trees
 
-- ✅ Binary Search Trees
+- Binary Search Trees
 
-- ✅ Graphs
+- Graphs
 
-- ✅ Dynamic Programming
+- Dynamic Programming
 
-- ✅ Greedy Algorithms
+- Greedy Algorithms
 
-- ✅ Bit Manipulation
+- Bit Manipulation
 
 ## 🛠 Tech Stack
 
